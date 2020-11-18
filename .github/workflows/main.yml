@@ -34,3 +34,5 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           # ftp password
           password: ${{ secrets.FTP_PASSWORD }}
+          # Folder to upload from, must end with trailing slash /
+          local-dir: ./arma3/mpmissions/
