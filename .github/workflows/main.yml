@@ -29,8 +29,10 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@4.0.0
         with:
           # ftp server
-          server: ms1312.gamedata.io/arma3/mpmissions
+          server: ms1312.gamedata.io
           # ftp username
           username: ${{ secrets.FTP_USERNAME }}
           # ftp password
           password: ${{ secrets.FTP_PASSWORD }}
+          # Folder to upload from, must end with trailing slash /
+          local-dir: arma3/mpmissions/
