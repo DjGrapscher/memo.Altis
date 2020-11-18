@@ -29,7 +29,7 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@4.0.0
         with:
           # ftp server
-          server: ${{ secrets.FTP_HOST }}
+          server: ms1312.gamedata.io/arma3/mpmissions
           # ftp username
           username: ${{ secrets.FTP_USERNAME }}
           # ftp password
