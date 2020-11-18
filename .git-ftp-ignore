@@ -1,0 +1,5 @@
+.github/*
+.git-ftp-ignore
+.git-ftp.log
+LICENSE
+README.md
