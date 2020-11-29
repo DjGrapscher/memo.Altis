@@ -180,5 +180,4 @@ s_spcfg_ausstattungen_psycho = [
 ["ItemMap","B_UavTerminal","TFAR_anprc152","ItemCompass","TFAR_microdagr",""]
 ]]
 /*--------------------------------------------------------------------------------------------------------------------*/
-
 ];
