@@ -167,5 +167,18 @@ s_spcfg_ausstattungen_psycho = [
 ["ItemMap","ItemGPS","TFAR_anprc152","ItemCompass","TFAR_microdagr","O_NVGoggles_ghex_F"]
 ]],
 /*--------------------------------------------------------------------------------------------------------------------*/
+["Bläcki",[
+["CUP_hgun_BallisticShield_Armed","","","",["CUP_15Rnd_9x19_M9",15],[],""],
+["gm_p2a1_launcher_blk","","","",["gm_1Rnd_2650mm_potato_dm11",1],[],""],
+["CUP_hgun_MP7_woodland","CUP_muzzle_snds_MP7","CUP_acc_ANPEQ_15_Flashlight_OD_L","optic_Aco_smg",["CUP_20Rnd_46x30_MP7",20],[],""],
+["CUP_U_O_RUS_Ratnik_Pink",[["FirstAidKit",3],["SmokeShell",2,1],["CUP_15Rnd_9x19_M9",1,15]]],
+["CUP_Vest_RUS_6B45_Sh117_Desert",[["SmokeShell",4,1],["gm_handgrenade_pracconc_dm58",1,1],["gm_handgrenade_pracfrag_dm58",4,1],["gm_1Rnd_2650mm_potato_dm11",2,1],["Chemlight_blue",3,1],["Chemlight_yellow",3,1],["Chemlight_green",3,1],["Chemlight_red",3,1],["CUP_40Rnd_46x30_MP7",2,40],["CUP_15Rnd_9x19_M9",2,15]]],
+["CUP_O_RUS_Patrol_bag_Desert_Shovel",[["FirstAidKit",5],["Medikit",1],["RyanZombiesAntiVirusTemporary_Item",10],["RyanZombiesAntiVirusCure_Item",10],["gm_1Rnd_2650mm_potato_dm11",3,1],["gm_smokeshell_grn_dm21",3,1],["gm_smokeshell_red_dm23",3,1],["gm_smokeshell_wht_dm25",3,1],["gm_smokeshell_yel_dm26",1,1],["CUP_40Rnd_46x30_MP7",2,40]]],
+"CUP_H_RUS_6B47_v2_GogglesDown_Desert",
+"CUP_G_ESS_BLK_Scarf_Face_Grn_GPS",
+["CUP_Vector21Nite","","","",[],[],""],
+["ItemMap","B_UavTerminal","TFAR_anprc152","ItemCompass","TFAR_microdagr",""]
+]]
+/*--------------------------------------------------------------------------------------------------------------------*/
 
 ];
